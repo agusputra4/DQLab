@@ -49,25 +49,25 @@ This is a repository that I created to share the result of learning from materia
 
 - [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/259)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20WEKTJI)] Advanced Data Visualization with ggplot2 using R
 
-<!--</details>
+</details>
 
 ### Industry Applied Class
 
 <details><summary>Daftar Modul</summary>
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRLSGBIB/)] Data Science in Finance: Credit Risk Analysis
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃]()] Data Science in Finance: Credit Risk Analysis
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Retail%20Market%20Basket%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMBALMHINQ/)] Data Science in Retail: Market Basket Analysis
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃]()] Data Science in Retail: Market Basket Analysis
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTUNNJKU)] Data Science in Marketing: Customer Segmentation
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃]()] Data Science in Marketing: Customer Segmentation
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Dimension%20Reduction)] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPCADRJUIDUE/)] Data Science in Finance: Dimension Reduction
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃]()] Data Science in Finance: Dimension Reduction
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃]()] Analisis Data COVID19 di Indonesia
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/A%20Walk%20Into%20Sensory%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1CUOCJI/)] A Walk Into Sensory Science
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃]()] A Walk Into Sensory Science
 
-</details> -->
+</details> 
 
 </details>
 
@@ -119,29 +119,29 @@ This is a repository that I created to share the result of learning from materia
 
 - [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/295)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9FSHLBE)] Data Visualization using Plotnine
 
-<!--</details>
+</details>
 
-### Kelas Penerapan di Industri
+### Industry Applied Class
 
 <details><summary>Daftar Modul</summary>
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/179)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/179)] [[📃]()] Basic Feature Discovering for Machine Learning
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing)] [[🔍](https://academy.dqlab.id/main/package/practice/247)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/247)] [[📃]()] Data Science in Telco: Data Cleansing
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/249)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/249)] [[📃]()] Customer Churn Prediction using Machine Learning
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20Project%20Analisis%20Data%20COVID19%20di%20Dunia%20%26%20ASEAN)] [[🔍](https://academy.dqlab.id/main/package/practice/260)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BAIQSQ/)] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/260)] [[📃]()] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2FGMAKW)] Data Analyst Project: Business Decision Research
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Eksplorasi%20dan%20Analisis%20Data%20COVID-19%20Indonesia%20using%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/287)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABACWP1OSMEUO/)] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/287)] [[📃]()] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/293)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1VGTGPJ/)] Data Science in Marketing : Customer Segmentation with Python
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/293)] [[📃]()] Data Science in Marketing : Customer Segmentation with Python
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python%20part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃](ttps://academy.dqlab.id/certificate/pdf/DQLABDSCS1TNUNDC/)] Data Science in Marketing : Customer Segmentation with Python part 2
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃]()] Data Science in Marketing : Customer Segmentation with Python part 2
 
-</details>-->
+</details>
 
 </details>
 
@@ -171,9 +171,9 @@ This is a repository that I created to share the result of learning from materia
 
 </details>
 
-<!--</details>
+</details>
 
-<br />
+<!--<br />
 
 ---
 
