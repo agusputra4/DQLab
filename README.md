@@ -13,7 +13,7 @@
 ![Hal](README/hal.png)
 
 <br />
-This is a repository that I created to share the result of learning from materials and projects in DQLab.
+This is a repository that I created to share the result of learning from materials and projects in DQLab. Markdown template inspired from <a href="https://github.com/myarist/DQLab">Arist</a>
 
 ---
 
