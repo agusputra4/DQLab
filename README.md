@@ -57,9 +57,9 @@ This is a repository that I created to share the result of learning from materia
 
 - [[📂](https://github.com/agusputra4/DQLab/tree/main/Learn/R/Industry%20Applied%20Class/Data%20Science%20in%20Finance:%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRUQKPMN)] Data Science in Finance: Credit Risk Analysis
 
-<!--- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃]()] Data Science in Retail: Market Basket Analysis
+- [[📂](https://github.com/agusputra4/DQLab/tree/main/Learn/R/Industry%20Applied%20Class/Data%20Science%20in%20Retail%20Market%20Basket%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMBAAILNFO)] Data Science in Retail: Market Basket Analysis
 
-- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃]()] Data Science in Marketing: Customer Segmentation
+<!-- - [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃]()] Data Science in Marketing: Customer Segmentation
 
 - [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃]()] Data Science in Finance: Dimension Reduction
 
